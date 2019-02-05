@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@storybook/react": "4.1.11"
+  },
+  "scripts": {
+    "storybook": "start-storybook -p 9001 -c .storybook"
+  }
+}
